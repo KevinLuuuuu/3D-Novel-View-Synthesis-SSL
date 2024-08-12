@@ -3,7 +3,11 @@
 DLCV-Fall-2022-HW4  
 Please click [this link](https://docs.google.com/presentation/d/171DwrrzYUenLnyev_NyZg0c19lgqk4q42iA_ptLZjDk/edit?usp=sharing) to view the slides of HW4
 
-# Usage
+## Problem
+- P1: 3D Novel View Synthesis
+- P2: Self-supervised Learning
+
+## Usage
 
 To start working on this assignment, you should clone this repository into your local machine by using the following command.
     
@@ -12,11 +16,11 @@ To start working on this assignment, you should clone this repository into your 
 
 Note that you should replace `<username>` with your own GitHub username.
 
-# Data
+## Data
 please download `hw4_data` from the link below
 https://drive.google.com/file/d/1Tc0f28syYVE185Z6388DWUOVHGSANCmX/view?usp=share_link
 
-# Submission Rules
+## Submission Rules
 ### Deadline
 2022/12/12 (Mon.) 23:59
 
@@ -30,7 +34,7 @@ pip install -r requirements.txt --no-cache-dir && pip install torch-scatter -f h
 
 Note that using packages with different versions will very likely lead to compatibility issues, so make sure that you install the correct version if one is specified above. E-mail or ask the TAs first if you want to import other packages.
 
-# Q&A
+## Q&A
 If you have any problems related to HW4, you may
 - Use TA hours
 - Contact TAs by e-mail ([ntudlcv@gmail.com](mailto:ntudlcv@gmail.com))
